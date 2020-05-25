@@ -35,7 +35,6 @@ def sorted_matrix
    CONVENTIONAL_PRODUCE.sort["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"], 
    ORGANIC_PRODUCE.sort["Strawberries", "Potatoes",  "Grapes", "Avocadoes", "Asparagus"]
   ]
-  sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
