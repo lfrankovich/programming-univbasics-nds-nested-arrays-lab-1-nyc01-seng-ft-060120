@@ -49,8 +49,8 @@ CONVENTIONAL_PRODUCE = [
 ]
  
  [  
-   CONVENTIONAL_PRODUCE.sort["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"], 
-   ORGANIC_PRODUCE.sort["Strawberries", "Potatoes",  "Grapes", "Avocadoes", "Asparagus"]
+   CONVENTIONAL_PRODUCE.sort[], 
+   ORGANIC_PRODUCE.sort[]
   ]
 end
 
